@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Ahmedmma72/Ahmedmma72/main/programmer.gif">
   </div>
 
----
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Mahmoud</h1>
 
